@@ -1,0 +1,11 @@
+Model Information:
+* title:	Taksim Tunel
+* source:	https://sketchfab.com/3d-models/taksim-tunel-d62dd0c0ef274cfc8b92609d1ec5e84a
+* author:	Gürkan GÜRBÜZ (https://sketchfab.com/gg2912)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Taksim Tunel" (https://sketchfab.com/3d-models/taksim-tunel-d62dd0c0ef274cfc8b92609d1ec5e84a) by Gürkan GÜRBÜZ (https://sketchfab.com/gg2912) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
